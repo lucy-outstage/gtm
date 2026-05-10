@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <base href="./" />
+  <title>Contact · Outstage</title>
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="nav">
+    <div class="nav-inner">
+      <a class="brand" href="./"><span class="brand-mark"></span> Outstage</a>
+      <nav class="nav-links">
+        <a href="work.html">Work</a>
+        <a href="playbook/">GTM Playbook</a>
+        <a href="approach.html">Approach</a>
+        <a href="about.html">About</a>
+      </nav>
+      <a class="nav-cta" href="contact.html">Book intro call</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow">Contact</span>
+        <h1>Building something complex?</h1>
+        <p>Let's make it visible, trusted, and easier to buy. Tell us a little about the company and the GTM problem worth solving.</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="contact-grid">
+          <form class="contact-form" onsubmit="event.preventDefault(); alert('Thanks. We will reply within one business day.');">
+            <div class="field"><label for="name">Name</label><input type="text" id="name" required /></div>
+            <div class="field"><label for="email">Work email</label><input type="email" id="email" required /></div>
+            <div class="field"><label for="company">Company</label><input type="text" id="company" /></div>
+            <div class="field">
+              <label for="industry">Industry</label>
+              <select id="industry">
+                <option value="">Select</option>
+                <option>Fintech</option><option>Payments</option><option>Telecom</option>
+                <option>AI</option><option>SaaS</option><option>Travel Tech</option>
+                <option>Digital Assets</option><option>Workforce Software</option>
+                <option>Other</option>
+              </select>
+            </div>
+            <div class="field"><label for="msg">What are you trying to solve?</label><textarea id="msg" rows="6"></textarea></div>
+            <button class="btn btn-primary" type="submit">Send</button>
+          </form>
+          <div class="contact-info-card">
+            <h3>Direct contact</h3>
+            <div class="info-row">
+              <strong>Email</strong>
+              <a href="mailto:hello@outstage.com">hello@outstage.com</a>
+            </div>
+            <div class="info-row">
+              <strong>What happens next</strong>
+              We reply within one business day with a short note and 2-3 questions to scope a first conversation.
+            </div>
+            <div class="info-row">
+              <strong>Prefer the diagnostic?</strong>
+              <a href="playbook/audit.html">Take the 10 Levels audit</a> and bring the results to the call.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand"><a class="brand" href="./"><span class="brand-mark"></span> Outstage</a><p>GTM systems for complex B2B companies.</p></div>
+        <div class="footer-col"><h5>Site</h5><ul><li><a href="work.html">Work</a></li><li><a href="playbook/">GTM Playbook</a></li><li><a href="approach.html">Approach</a></li><li><a href="about.html">About</a></li></ul></div>
+        <div class="footer-col"><h5>Playbook</h5><ul><li><a href="playbook/audit.html">Take the audit</a></li><li><a href="playbook/">The 10 Levels</a></li><li><a href="playbook/results.html">Download summary</a></li></ul></div>
+        <div class="footer-col"><h5>Contact</h5><ul><li><a href="contact.html">Book intro call</a></li><li><a href="mailto:hello@outstage.com">hello@outstage.com</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><span>© <span data-year></span> Outstage</span><span>Built for complex B2B GTM.</span></div>
+    </div>
+  </footer>
+
+  <script src="js/site.js"></script>
+</body>
+</html>

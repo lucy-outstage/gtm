@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "B1",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 1,
+    "name": "ICP Definition Clarity",
+    "probe": "How clearly defined is the Ideal Customer Profile?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No defined ICP. Selling to anyone with a pulse."
+      },
+      {
+        "score": 1,
+        "description": "Rough segment only (e.g., 'B2B SaaS founders')."
+      },
+      {
+        "score": 2,
+        "description": "Documented ICP with firmographic filters."
+      },
+      {
+        "score": 3,
+        "description": "Multi-tier ICP (Tier 1/2/3) with clear fit criteria."
+      },
+      {
+        "score": 4,
+        "description": "ICP validated against closed-won data, refreshed quarterly, with anti-fit exclusions."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "B2",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 2,
+    "name": "Positioning & One-Liner",
+    "probe": "How sharp is the value proposition and differentiation?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Generic claims ('we help companies grow')."
+      },
+      {
+        "score": 1,
+        "description": "Feature-led pitch, undifferentiated."
+      },
+      {
+        "score": 2,
+        "description": "Clear category + outcome, weak differentiation."
+      },
+      {
+        "score": 3,
+        "description": "Differentiated position, supported by proof points."
+      },
+      {
+        "score": 4,
+        "description": "Owned narrative (POV-led / category-shaping), strong competitive moat."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "B3",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 3,
+    "name": "Website \u2014 Conversion Readiness",
+    "probe": "Does the website convert traffic into pipeline?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Brochure site, no CTAs or lead capture."
+      },
+      {
+        "score": 1,
+        "description": "Basic contact form, single CTA."
+      },
+      {
+        "score": 2,
+        "description": "Segmented landing pages, lead capture, live chat."
+      },
+      {
+        "score": 3,
+        "description": "Personalised / account-aware site experience."
+      },
+      {
+        "score": 4,
+        "description": "Signal-driven site (visitor de-anon + routed CTAs + intent personalisation)."
+      }
+    ],
+    "quantMetric": "Homepage\u2192demo CVR (target >2%)"
+  },
+  {
+    "id": "B4",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 4,
+    "name": "Social Proof Library",
+    "probe": "How robust is the social proof arsenal?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No logos, no case studies."
+      },
+      {
+        "score": 1,
+        "description": "Logo wall only."
+      },
+      {
+        "score": 2,
+        "description": "2\u20133 case studies + testimonials."
+      },
+      {
+        "score": 3,
+        "description": "10+ case studies mapped to ICP segments with metrics."
+      },
+      {
+        "score": 4,
+        "description": "Continuous case-study engine + peer-review proof (G2, awards, analyst mentions)."
+      }
+    ],
+    "quantMetric": "# case studies live"
+  },
+  {
+    "id": "B5",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 5,
+    "name": "Founder / Exec LinkedIn Presence",
+    "probe": "Are senior leaders publishing consistently on LinkedIn?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Dormant profiles."
+      },
+      {
+        "score": 1,
+        "description": "Occasional posts, no cadence."
+      },
+      {
+        "score": 2,
+        "description": "Regular posting (~1x/week), some engagement."
+      },
+      {
+        "score": 3,
+        "description": "Consistent cadence (3+/week), 5K+ followers."
+      },
+      {
+        "score": 4,
+        "description": "Founder-led content as primary TOFU. 25K+ followers. Meetings booked directly from content."
+      }
+    ],
+    "quantMetric": "Posts/week + follower count"
+  },
+  {
+    "id": "B6",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 6,
+    "name": "Company Content Cadence",
+    "probe": "What does the content engine look like beyond social?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No content production."
+      },
+      {
+        "score": 1,
+        "description": "Ad-hoc blog posts."
+      },
+      {
+        "score": 2,
+        "description": "Monthly blog / newsletter."
+      },
+      {
+        "score": 3,
+        "description": "Multi-format program (blog + podcast + video + newsletter) on schedule."
+      },
+      {
+        "score": 4,
+        "description": "Content atomised from sales conversations, distributed across all channels, tied to pipeline."
+      }
+    ],
+    "quantMetric": "Content pieces/month"
+  },
+  {
+    "id": "B7",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 7,
+    "name": "Visual Brand System",
+    "probe": "Is the brand visually coherent across all surfaces?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No brand guidelines, inconsistent design."
+      },
+      {
+        "score": 1,
+        "description": "Basic logo and color, ad-hoc design."
+      },
+      {
+        "score": 2,
+        "description": "Brand guidelines document, mostly followed."
+      },
+      {
+        "score": 3,
+        "description": "Design system with templates for social, sales, web."
+      },
+      {
+        "score": 4,
+        "description": "Mature brand identity, recognised in category, design ops in place."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "B8",
+    "layer": 1,
+    "layerName": "Brand & Positioning",
+    "number": 8,
+    "name": "Category Narrative",
+    "probe": "Is the company defining, defending, or following a category?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No awareness of category positioning."
+      },
+      {
+        "score": 1,
+        "description": "Generic category fit ('we're a CRM')."
+      },
+      {
+        "score": 2,
+        "description": "Differentiated niche within a category."
+      },
+      {
+        "score": 3,
+        "description": "Actively framing a sub-category with owned vocabulary."
+      },
+      {
+        "score": 4,
+        "description": "Category creator \u2014 analysts and market reference them."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "D1",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 1,
+    "name": "CRM as Source of Truth",
+    "probe": "Is the CRM the definitive record for accounts and contacts?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No CRM, or CRM not used."
+      },
+      {
+        "score": 1,
+        "description": "CRM exists but duplicates, missing fields, ignored."
+      },
+      {
+        "score": 2,
+        "description": "CRM used by sales but not synced to marketing/CS."
+      },
+      {
+        "score": 3,
+        "description": "Central CRM with enforced hygiene, dedupe rules, mandatory fields."
+      },
+      {
+        "score": 4,
+        "description": "Dual-CRM architecture (mkt + sales) or single source with full bi-directional sync, weekly audit."
+      }
+    ],
+    "quantMetric": "% opps with mandatory fields populated (target >90%)"
+  },
+  {
+    "id": "D2",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 2,
+    "name": "TAM Mapping",
+    "probe": "Is the full addressable market mapped and in the CRM?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No TAM defined."
+      },
+      {
+        "score": 1,
+        "description": "Rough count ('there are 10K companies like this')."
+      },
+      {
+        "score": 2,
+        "description": "TAM list built, but static and stale."
+      },
+      {
+        "score": 3,
+        "description": "TAM mapped, segmented by tier, refreshed quarterly."
+      },
+      {
+        "score": 4,
+        "description": "Full scored TAM in CRM (fit + tier), living list, continuous enrichment."
+      }
+    ],
+    "quantMetric": "# accounts in TAM"
+  },
+  {
+    "id": "D3",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 3,
+    "name": "Account Firmographic Enrichment",
+    "probe": "How deep is the firmographic data layer on each account?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Name and domain only."
+      },
+      {
+        "score": 1,
+        "description": "Revenue range and headcount (manual)."
+      },
+      {
+        "score": 2,
+        "description": "Enriched from a single source (Apollo or ZoomInfo)."
+      },
+      {
+        "score": 3,
+        "description": "Multi-source waterfall (Clay + LinkedIn + secondary)."
+      },
+      {
+        "score": 4,
+        "description": "Custom data points (funding, tech stack, growth signals) auto-refreshed."
+      }
+    ],
+    "quantMetric": "% accounts with \u226510 firmographic fields"
+  },
+  {
+    "id": "D4",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 4,
+    "name": "Contact Enrichment \u2014 Email + Phone Waterfall",
+    "probe": "How reliable is contact data for outbound?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Scraped emails, high bounce rate."
+      },
+      {
+        "score": 1,
+        "description": "Single-source emails, some verification."
+      },
+      {
+        "score": 2,
+        "description": "Verified emails (LeadMagic / BounceBan) on outbound list."
+      },
+      {
+        "score": 3,
+        "description": "Waterfall enrichment (3+ providers) with validation step."
+      },
+      {
+        "score": 4,
+        "description": "Full waterfall (email + mobile) with re-verification on every outbound batch."
+      }
+    ],
+    "quantMetric": "Bounce rate % (target <2%)"
+  },
+  {
+    "id": "D5",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 5,
+    "name": "ICP Fit Scoring",
+    "probe": "Is every account/contact scored for ICP fit?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No scoring \u2014 all accounts treated equal."
+      },
+      {
+        "score": 1,
+        "description": "Manual tiering by rep gut-feel."
+      },
+      {
+        "score": 2,
+        "description": "Basic rule-based ICP score (industry + size)."
+      },
+      {
+        "score": 3,
+        "description": "Multi-factor score (firmographics + tech + intent) recalculated regularly."
+      },
+      {
+        "score": 4,
+        "description": "ML-based scoring calibrated against closed-won, surfaced in CRM."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "D6",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 6,
+    "name": "Cross-Tool Data Sync",
+    "probe": "Does data flow cleanly across the GTM stack?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Tools don't talk to each other."
+      },
+      {
+        "score": 1,
+        "description": "Manual CSV exports between tools."
+      },
+      {
+        "score": 2,
+        "description": "Some native integrations (CRM \u2194 sequencer)."
+      },
+      {
+        "score": 3,
+        "description": "Bi-directional sync across CRM, sequencer, ads, enrichment."
+      },
+      {
+        "score": 4,
+        "description": "Full orchestration layer (n8n/Make/Zapier) with monitoring and error handling."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "D7",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 7,
+    "name": "Data Coverage vs TAM",
+    "probe": "What % of the TAM is fully enriched and actionable?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "<25% of TAM has workable data."
+      },
+      {
+        "score": 1,
+        "description": "25\u201350%."
+      },
+      {
+        "score": 2,
+        "description": "50\u201375%."
+      },
+      {
+        "score": 3,
+        "description": "75\u201390% with verified contacts."
+      },
+      {
+        "score": 4,
+        "description": "90%+ with decision-maker coverage and ongoing refresh."
+      }
+    ],
+    "quantMetric": "% TAM enriched"
+  },
+  {
+    "id": "D8",
+    "layer": 2,
+    "layerName": "Data Layer",
+    "number": 8,
+    "name": "Data Decay Management",
+    "probe": "How is data kept fresh against 22%/yr natural decay?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No refresh \u2014 data decays unmanaged."
+      },
+      {
+        "score": 1,
+        "description": "Annual re-enrichment."
+      },
+      {
+        "score": 2,
+        "description": "Quarterly re-enrichment."
+      },
+      {
+        "score": 3,
+        "description": "Monthly re-enrichment + job-change tracking."
+      },
+      {
+        "score": 4,
+        "description": "Real-time signals \u2014 job/role/company changes trigger CRM updates."
+      }
+    ],
+    "quantMetric": "Re-enrichment cadence (days)"
+  },
+  {
+    "id": "S1",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 1,
+    "name": "Buying Intent Signals (3rd Party)",
+    "probe": "Are 3rd-party intent signals captured and wired into the CRM?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No intent data."
+      },
+      {
+        "score": 1,
+        "description": "G2 reviews monitored manually."
+      },
+      {
+        "score": 2,
+        "description": "Single intent source (Bombora or 6sense) in CRM."
+      },
+      {
+        "score": 3,
+        "description": "Multi-source intent (G2 + Bombora + 6sense) with topic tracking."
+      },
+      {
+        "score": 4,
+        "description": "Intent composited with fit score, triggering account-level actions."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "S2",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 2,
+    "name": "Website Visitor De-anonymization",
+    "probe": "Are anonymous visitors being identified company-by-company?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "GA only, no identification."
+      },
+      {
+        "score": 1,
+        "description": "Basic analytics (GA4), no identification."
+      },
+      {
+        "score": 2,
+        "description": "Email-level tracking (HubSpot known contacts)."
+      },
+      {
+        "score": 3,
+        "description": "De-anon solution (RB2B / Warmly / Vector) identifying companies."
+      },
+      {
+        "score": 4,
+        "description": "De-anon + contact enrichment + auto-routing to outbound, ads, and CSM."
+      }
+    ],
+    "quantMetric": "% visitors de-anonymized"
+  },
+  {
+    "id": "S3",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 3,
+    "name": "LinkedIn Engagement Capture",
+    "probe": "Are LinkedIn post engagers and profile visitors captured?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "LinkedIn engagement ignored."
+      },
+      {
+        "score": 1,
+        "description": "Engagers manually reviewed by founder."
+      },
+      {
+        "score": 2,
+        "description": "Post engagers scraped (LeadMagic) but not actioned."
+      },
+      {
+        "score": 3,
+        "description": "Post + profile visitor capture, enriched, routed by ICP fit."
+      },
+      {
+        "score": 4,
+        "description": "Every engagement triggers a personalised play. Full engagement pipeline."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "S4",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 4,
+    "name": "Trigger Signals \u2014 Hiring / Funding / Tech",
+    "probe": "Are leading-indicator signals monitored?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No signal monitoring."
+      },
+      {
+        "score": 1,
+        "description": "Manual news scanning."
+      },
+      {
+        "score": 2,
+        "description": "Single signal type (e.g., funding announcements)."
+      },
+      {
+        "score": 3,
+        "description": "Multi-signal monitoring (Trigify / PredictLeads / HG Insights)."
+      },
+      {
+        "score": 4,
+        "description": "All signals composited, scored by urgency, triggering timely outbound."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "S5",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 5,
+    "name": "Account Scoring \u2014 Fit \u00d7 Intent",
+    "probe": "Are accounts scored by both fit AND intent?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No scoring."
+      },
+      {
+        "score": 1,
+        "description": "Fit score only."
+      },
+      {
+        "score": 2,
+        "description": "Fit + basic intent (e.g., website visits)."
+      },
+      {
+        "score": 3,
+        "description": "Composite score (fit \u00d7 multi-signal intent)."
+      },
+      {
+        "score": 4,
+        "description": "Dynamic score refreshed on every signal event, visible in CRM."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "S6",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 6,
+    "name": "Lead-to-Account Matching",
+    "probe": "Are inbound leads matched to the correct account automatically?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Leads dumped as standalone contacts."
+      },
+      {
+        "score": 1,
+        "description": "Manual matching by rep."
+      },
+      {
+        "score": 2,
+        "description": "Basic fuzzy match on domain."
+      },
+      {
+        "score": 3,
+        "description": "Automated lead-to-account matching with account-owner routing."
+      },
+      {
+        "score": 4,
+        "description": "Full matching + de-duping + cross-object relationship mapping."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "S7",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 7,
+    "name": "Signal-to-Action Routing",
+    "probe": "When a signal fires, does it trigger an action automatically?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Signals detected but no action taken."
+      },
+      {
+        "score": 1,
+        "description": "Manual review and follow-up."
+      },
+      {
+        "score": 2,
+        "description": "Signals alert reps (Slack)."
+      },
+      {
+        "score": 3,
+        "description": "Signals auto-enrol contact into the right sequence."
+      },
+      {
+        "score": 4,
+        "description": "Multi-channel signal orchestration (sequence + ads + CSM outreach)."
+      }
+    ],
+    "quantMetric": "Time signal\u2192action (target <1hr)"
+  },
+  {
+    "id": "S8",
+    "layer": 3,
+    "layerName": "Signal Layer",
+    "number": 8,
+    "name": "Inbound Lead Scoring & Routing",
+    "probe": "How are inbound leads scored and routed?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "All leads treated equal, one inbox."
+      },
+      {
+        "score": 1,
+        "description": "Basic round-robin to reps."
+      },
+      {
+        "score": 2,
+        "description": "ICP filter before rep routing."
+      },
+      {
+        "score": 3,
+        "description": "Fit + intent score determines SLA tier (hot/warm/nurture)."
+      },
+      {
+        "score": 4,
+        "description": "Full speed-to-lead automation, enriched briefing to rep before first touch."
+      }
+    ],
+    "quantMetric": "Lead response time (target <5 min)"
+  },
+  {
+    "id": "R1",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 1,
+    "name": "Pipeline Stages & Conversion",
+    "probe": "Are pipeline stages defined and conversion tracked?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Stages not defined or inconsistent."
+      },
+      {
+        "score": 1,
+        "description": "Basic stages, conversion tracked ad-hoc."
+      },
+      {
+        "score": 2,
+        "description": "Stages documented, conversion rates reviewed monthly."
+      },
+      {
+        "score": 3,
+        "description": "Exit criteria per stage, conversion tracked by segment/rep."
+      },
+      {
+        "score": 4,
+        "description": "Stage conversion benchmarks with deviation alerts, deal-desk governance."
+      }
+    ],
+    "quantMetric": "Stage conversion rates"
+  },
+  {
+    "id": "R2",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 2,
+    "name": "Lead Routing & Speed-to-Lead",
+    "probe": "How fast and accurate is inbound lead routing?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Inbox dumping, no routing."
+      },
+      {
+        "score": 1,
+        "description": "Daily manual assignment."
+      },
+      {
+        "score": 2,
+        "description": "Round-robin with basic rules."
+      },
+      {
+        "score": 3,
+        "description": "Signal-based routing (territory + account tier + intent)."
+      },
+      {
+        "score": 4,
+        "description": "Sub-5-min SLA with auto-enrichment and rep briefing."
+      }
+    ],
+    "quantMetric": "Median lead response time"
+  },
+  {
+    "id": "R3",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 3,
+    "name": "Meeting & Scheduling Ops",
+    "probe": "Is the meeting booking flow friction-free and context-rich?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Back-and-forth email scheduling."
+      },
+      {
+        "score": 1,
+        "description": "Basic Calendly links."
+      },
+      {
+        "score": 2,
+        "description": "Routed scheduling with reminders."
+      },
+      {
+        "score": 3,
+        "description": "Chili Piper / Calendly routing by owner/tier with prep docs."
+      },
+      {
+        "score": 4,
+        "description": "Full calendar ops: pre-meeting research auto-generated + reminders + post-meeting sync."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "R4",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 4,
+    "name": "Handoff SLAs \u2014 Marketing \u2192 Sales \u2192 CS",
+    "probe": "Are handoffs governed by SLAs?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No SLAs; leads and deals fall through cracks."
+      },
+      {
+        "score": 1,
+        "description": "Informal handoffs."
+      },
+      {
+        "score": 2,
+        "description": "Documented handoff criteria."
+      },
+      {
+        "score": 3,
+        "description": "Tracked SLAs with alerts on breach."
+      },
+      {
+        "score": 4,
+        "description": "Automated handoff workflows with full context transfer."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "R5",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 5,
+    "name": "Dashboards & Reporting",
+    "probe": "What operational dashboards exist?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No dashboards; numbers pulled manually."
+      },
+      {
+        "score": 1,
+        "description": "Spreadsheet-based reports."
+      },
+      {
+        "score": 2,
+        "description": "CRM-native dashboards (pipeline)."
+      },
+      {
+        "score": 3,
+        "description": "Multi-dimension dashboards (pipeline, velocity, conversion, CAC)."
+      },
+      {
+        "score": 4,
+        "description": "Executive BI layer (cross-tool) with predictive / forecasting views."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "R6",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 6,
+    "name": "Workflow Automation Library",
+    "probe": "How mature is the automation layer?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Nothing automated."
+      },
+      {
+        "score": 1,
+        "description": "A few Zapier tasks."
+      },
+      {
+        "score": 2,
+        "description": "Documented workflows in Zapier / Make."
+      },
+      {
+        "score": 3,
+        "description": "Robust n8n / Make library with version control."
+      },
+      {
+        "score": 4,
+        "description": "AI agents embedded in workflows, full observability, error handling."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "R7",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 7,
+    "name": "Renewal & Expansion Pipeline",
+    "probe": "Is the post-sale motion managed as a proper pipeline?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No renewal tracking."
+      },
+      {
+        "score": 1,
+        "description": "Spreadsheet of renewal dates."
+      },
+      {
+        "score": 2,
+        "description": "Renewal pipeline in CRM with stage logic."
+      },
+      {
+        "score": 3,
+        "description": "Forecasted renewals + expansion plays triggered by usage/signals."
+      },
+      {
+        "score": 4,
+        "description": "Full CS ops motion \u2014 health scoring, QBRs, expansion automation."
+      }
+    ],
+    "quantMetric": "NRR %"
+  },
+  {
+    "id": "R8",
+    "layer": 4,
+    "layerName": "Execution \u2014 RevOps",
+    "number": 8,
+    "name": "Reply Classification & Disposition",
+    "probe": "Are outbound replies classified and routed?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Reps sort manually."
+      },
+      {
+        "score": 1,
+        "description": "Basic rules (interested / not interested)."
+      },
+      {
+        "score": 2,
+        "description": "Sequencer-native reply detection."
+      },
+      {
+        "score": 3,
+        "description": "AI-classified replies (positive / objection / not now)."
+      },
+      {
+        "score": 4,
+        "description": "Replies auto-routed to right flow (meeting / objection handling / nurture)."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "O1",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 1,
+    "name": "Email Deliverability Infrastructure",
+    "probe": "Is the sending infrastructure healthy and scalable?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Single domain, no warmup, blacklisted."
+      },
+      {
+        "score": 1,
+        "description": "1 domain, a few mailboxes, ad-hoc warmup."
+      },
+      {
+        "score": 2,
+        "description": "2\u20135 domains, mailboxes warmed \u226530 days, SPF/DKIM/DMARC set."
+      },
+      {
+        "score": 3,
+        "description": "Dedicated infra (5+ domains, 3 mailboxes/domain, continuous warmup)."
+      },
+      {
+        "score": 4,
+        "description": "Inbox placement monitoring (GlockApps), reputation alerts, multi-provider redundancy."
+      }
+    ],
+    "quantMetric": "Inbox placement % (target >85%); # domains; # mailboxes"
+  },
+  {
+    "id": "O2",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 2,
+    "name": "Sequencer Setup & Cadence",
+    "probe": "How sophisticated is the outbound sequencer?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No sequencer; manual sends."
+      },
+      {
+        "score": 1,
+        "description": "Basic sequences (1 cadence for all)."
+      },
+      {
+        "score": 2,
+        "description": "Multiple sequences by segment."
+      },
+      {
+        "score": 3,
+        "description": "ICP + signal-specific sequences with A/B testing."
+      },
+      {
+        "score": 4,
+        "description": "Fully orchestrated sequences across channels with liquid variables and trigger branches."
+      }
+    ],
+    "quantMetric": "Reply rate % (target 2\u20135% cold, 10%+ warm)"
+  },
+  {
+    "id": "O3",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 3,
+    "name": "Personalisation Depth",
+    "probe": "How personalised is outbound messaging at scale?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "'Hi [first name]' only."
+      },
+      {
+        "score": 1,
+        "description": "Company name + generic hook."
+      },
+      {
+        "score": 2,
+        "description": "Role-based templates."
+      },
+      {
+        "score": 3,
+        "description": "AI-generated personalisation (Clay + Claude) on every send."
+      },
+      {
+        "score": 4,
+        "description": "Multi-variable relevance (signal + persona + case-study match) \u2014 near-1:1 quality at scale."
+      }
+    ],
+    "quantMetric": "Positive reply rate by segment"
+  },
+  {
+    "id": "O4",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 4,
+    "name": "LinkedIn Outbound Operations",
+    "probe": "How is LinkedIn outbound structured?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No LinkedIn outreach."
+      },
+      {
+        "score": 1,
+        "description": "Manual connect messages from founder."
+      },
+      {
+        "score": 2,
+        "description": "HeyReach / Expandi / Lemlist with single cadence."
+      },
+      {
+        "score": 3,
+        "description": "Multi-account LinkedIn outbound, ICP-filtered, tied to CRM."
+      },
+      {
+        "score": 4,
+        "description": "LinkedIn + email orchestration, engagement-triggered, ICP-scored."
+      }
+    ],
+    "quantMetric": "LinkedIn reply rate %"
+  },
+  {
+    "id": "O5",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 5,
+    "name": "Multi-Channel Orchestration",
+    "probe": "Are outbound channels coordinated across email, LinkedIn, and ads?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Channels run independently, no coordination."
+      },
+      {
+        "score": 1,
+        "description": "Email + LinkedIn run in parallel by same rep."
+      },
+      {
+        "score": 2,
+        "description": "Documented sequence across email + LinkedIn."
+      },
+      {
+        "score": 3,
+        "description": "Email + LinkedIn + ads hitting same ICP accounts in coordinated windows."
+      },
+      {
+        "score": 4,
+        "description": "Full orchestration \u2014 signals trigger cross-channel plays, all in one system."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "O6",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 6,
+    "name": "Testing & Iteration Cadence",
+    "probe": "How systematically is outbound tested and improved?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No testing. Same templates forever."
+      },
+      {
+        "score": 1,
+        "description": "Occasional rewrites when results dip."
+      },
+      {
+        "score": 2,
+        "description": "Subject-line / opener A/B tests run ad-hoc."
+      },
+      {
+        "score": 3,
+        "description": "Weekly performance review with documented test backlog."
+      },
+      {
+        "score": 4,
+        "description": "Continuous test program \u2014 multi-variate on copy, offer, cadence, persona \u2014 feeding a learnings doc."
+      }
+    ],
+    "quantMetric": "Tests run / month"
+  },
+  {
+    "id": "O7",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 7,
+    "name": "Content Engine (Advanced)",
+    "probe": "Is there a content engine feeding outbound and nurture?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No content support for outbound."
+      },
+      {
+        "score": 1,
+        "description": "Reps send links to old blog posts."
+      },
+      {
+        "score": 2,
+        "description": "Monthly asset supports campaigns."
+      },
+      {
+        "score": 3,
+        "description": "Founder-led content repurposed across email, LinkedIn, ads."
+      },
+      {
+        "score": 4,
+        "description": "Full Content-as-a-Service: sales conversations \u2192 content \u2192 ads/outbound/nurture in a closed loop."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "O8",
+    "layer": 5,
+    "layerName": "Execution \u2014 Outbound",
+    "number": 8,
+    "name": "AI Agents / GTM Ops (Advanced)",
+    "probe": "Are AI agents embedded in the GTM stack?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No AI in GTM workflows."
+      },
+      {
+        "score": 1,
+        "description": "Point-use ChatGPT for email drafting."
+      },
+      {
+        "score": 2,
+        "description": "Clay + Claude integration for enrichment/personalisation."
+      },
+      {
+        "score": 3,
+        "description": "Custom agents in workflows (enrichment, routing, classification)."
+      },
+      {
+        "score": 4,
+        "description": "AI agents running autonomous plays \u2014 research, outbound drafts, reply handling, in background."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "A1",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 1,
+    "name": "Paid Strategy & Role in Pipeline",
+    "probe": "Is there a defined role for paid in the GTM mix?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No paid. Or 'we tried it, didn't work.'"
+      },
+      {
+        "score": 1,
+        "description": "Ad-hoc paid campaigns, no strategy."
+      },
+      {
+        "score": 2,
+        "description": "Paid runs for brand or lead-gen, measured separately."
+      },
+      {
+        "score": 3,
+        "description": "Paid has a defined role (demand gen, demand capture, ABM) with targets per channel."
+      },
+      {
+        "score": 4,
+        "description": "Paid is integrated into the GTM system \u2014 budget tied to pipeline targets, feeding outbound and sales."
+      }
+    ],
+    "quantMetric": "% pipeline attributed to paid"
+  },
+  {
+    "id": "A2",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 2,
+    "name": "Channel Mix & Budget Allocation",
+    "probe": "Which paid channels are active, and how is budget allocated?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "One channel, no strategy."
+      },
+      {
+        "score": 1,
+        "description": "2+ channels, budget by gut feel."
+      },
+      {
+        "score": 2,
+        "description": "Multi-channel (LinkedIn, Google, Meta) with basic budget logic."
+      },
+      {
+        "score": 3,
+        "description": "Budget allocated by CAC/ROAS per channel, reviewed monthly."
+      },
+      {
+        "score": 4,
+        "description": "Portfolio approach \u2014 brand, demand capture, ABM, retargeting each with a role and measured ROAS."
+      }
+    ],
+    "quantMetric": "Monthly paid spend + channel split"
+  },
+  {
+    "id": "A3",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 3,
+    "name": "ABM / Account-Based Ads",
+    "probe": "Are ads targeting specific high-value accounts?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No account targeting \u2014 broad audiences only."
+      },
+      {
+        "score": 1,
+        "description": "Lookalike audiences from customer list."
+      },
+      {
+        "score": 2,
+        "description": "ABM audience from target list (top 200 accounts)."
+      },
+      {
+        "score": 3,
+        "description": "ABM ads tied to CRM list, refreshed on new accounts, segmented by tier."
+      },
+      {
+        "score": 4,
+        "description": "Signal-triggered ABM \u2014 ad spend ramps when an account shows intent."
+      }
+    ],
+    "quantMetric": "# target accounts reached by ads"
+  },
+  {
+    "id": "A4",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 4,
+    "name": "Signal-Triggered & Retargeting Flows",
+    "probe": "Do ads respond to behaviour and intent signals?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Static ads, no retargeting."
+      },
+      {
+        "score": 1,
+        "description": "Basic website retargeting (all visitors)."
+      },
+      {
+        "score": 2,
+        "description": "Retargeting segmented by page / stage."
+      },
+      {
+        "score": 3,
+        "description": "Retargeting tied to CRM stage + signal source (funding, hiring, intent)."
+      },
+      {
+        "score": 4,
+        "description": "Full signal loop \u2014 ads fire on specific triggers, content changes by trigger type, synced with outbound and CSM."
+      }
+    ],
+    "quantMetric": "Retargeting CTR vs cold CTR"
+  },
+  {
+    "id": "A5",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 5,
+    "name": "Creative & Messaging Quality",
+    "probe": "How strong is the creative system?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Generic stock imagery, product screenshots."
+      },
+      {
+        "score": 1,
+        "description": "Occasional bespoke creative, no system."
+      },
+      {
+        "score": 2,
+        "description": "Brand-aligned creative, produced in batches."
+      },
+      {
+        "score": 3,
+        "description": "Creative system with templates, variants per persona, regular refresh."
+      },
+      {
+        "score": 4,
+        "description": "Creative atomised from sales conversations and content \u2014 persona-matched, tested, refreshed weekly."
+      }
+    ],
+    "quantMetric": "# active creative variants"
+  },
+  {
+    "id": "A6",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 6,
+    "name": "Landing Page Experience",
+    "probe": "Where does ad traffic land, and how well does it convert?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Homepage only."
+      },
+      {
+        "score": 1,
+        "description": "Generic landing page, single CTA."
+      },
+      {
+        "score": 2,
+        "description": "Campaign-specific landing pages."
+      },
+      {
+        "score": 3,
+        "description": "Segmented landing pages by persona or industry with clear CTAs."
+      },
+      {
+        "score": 4,
+        "description": "Personalised / account-aware landing pages (dynamic variables, named social proof)."
+      }
+    ],
+    "quantMetric": "Ad LP conversion rate %"
+  },
+  {
+    "id": "A7",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 7,
+    "name": "Attribution & Measurement",
+    "probe": "Is paid attribution trustworthy and actionable?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No tracking beyond platform metrics."
+      },
+      {
+        "score": 1,
+        "description": "Single-touch (last click) attribution."
+      },
+      {
+        "score": 2,
+        "description": "UTM discipline + CRM source tracking."
+      },
+      {
+        "score": 3,
+        "description": "Multi-touch attribution model, reviewed monthly, feeds channel decisions."
+      },
+      {
+        "score": 4,
+        "description": "Blended CAC + pipeline attribution across channels, integrated with CRM forecast."
+      }
+    ],
+    "quantMetric": "CAC by channel; CAC payback months"
+  },
+  {
+    "id": "A8",
+    "layer": 6,
+    "layerName": "Execution \u2014 Ads",
+    "number": 8,
+    "name": "Integration with Outbound & CRM",
+    "probe": "Do ads and outbound work together, or in parallel silos?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Ads and outbound operate independently."
+      },
+      {
+        "score": 1,
+        "description": "Shared ICP list, no coordination."
+      },
+      {
+        "score": 2,
+        "description": "Ads warm accounts before outbound touches them."
+      },
+      {
+        "score": 3,
+        "description": "Same account list hit by ads + outbound + content in coordinated windows."
+      },
+      {
+        "score": 4,
+        "description": "Full orchestration \u2014 signals route simultaneously to ads, outbound, and CSM. One pipeline, three channels."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "SP1",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 1,
+    "name": "Sales Team Structure",
+    "probe": "How is the sales team structured relative to motion and scale?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Founder is only seller."
+      },
+      {
+        "score": 1,
+        "description": "Founder + 1 generalist."
+      },
+      {
+        "score": 2,
+        "description": "Defined SDR / AE split."
+      },
+      {
+        "score": 3,
+        "description": "SDRs (inbound + outbound) + AEs (commercial + enterprise) + ops support."
+      },
+      {
+        "score": 4,
+        "description": "Full motion: SDRs, AEs, SEs, CS, RevOps, enablement."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "SP2",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 2,
+    "name": "Qualification Framework",
+    "probe": "Is there a documented and enforced qualification methodology?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No framework \u2014 reps wing it."
+      },
+      {
+        "score": 1,
+        "description": "Informal BANT."
+      },
+      {
+        "score": 2,
+        "description": "Documented BANT/MEDDIC, inconsistently applied."
+      },
+      {
+        "score": 3,
+        "description": "MEDDIC / MEDDPICC enforced, fields in CRM."
+      },
+      {
+        "score": 4,
+        "description": "Qualification scoring drives forecast confidence and deal-desk review."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "SP3",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 3,
+    "name": "Call Recording & Coaching",
+    "probe": "Are sales calls recorded, analysed, and used for coaching?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "No recording."
+      },
+      {
+        "score": 1,
+        "description": "Gong / Fireflies installed, rarely reviewed."
+      },
+      {
+        "score": 2,
+        "description": "Recordings reviewed ad-hoc in 1:1s."
+      },
+      {
+        "score": 3,
+        "description": "Scorecard-driven coaching, weekly review cadence."
+      },
+      {
+        "score": 4,
+        "description": "AI insights from call analytics feed back into pipeline + sequences + content."
+      }
+    ],
+    "quantMetric": "Calls coached / rep / month"
+  },
+  {
+    "id": "SP4",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 4,
+    "name": "Proposal / Quote-to-Cash",
+    "probe": "How structured is the proposal-to-signature flow?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Ad-hoc PDFs and email trails."
+      },
+      {
+        "score": 1,
+        "description": "Basic proposal template."
+      },
+      {
+        "score": 2,
+        "description": "CPQ for standard deals."
+      },
+      {
+        "score": 3,
+        "description": "CPQ + approval workflows + e-sign integrated with CRM."
+      },
+      {
+        "score": 4,
+        "description": "Full quote-to-cash automation with discount governance and auto-provisioning."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "SP5",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 5,
+    "name": "Pipeline Hygiene & Forecast Accuracy",
+    "probe": "Is pipeline data trustworthy and is forecast accurate?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Pipeline is a mess, no forecasting."
+      },
+      {
+        "score": 1,
+        "description": "Weekly review, high variance vs actuals."
+      },
+      {
+        "score": 2,
+        "description": "Monthly forecast with ~60\u201370% accuracy."
+      },
+      {
+        "score": 3,
+        "description": "Weighted forecast by stage with 80%+ accuracy, deal inspection cadence."
+      },
+      {
+        "score": 4,
+        "description": "Predictive AI forecasting with sub-10% variance, deal-desk governance."
+      }
+    ],
+    "quantMetric": "Forecast accuracy % (target \u226585%)"
+  },
+  {
+    "id": "SP6",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 6,
+    "name": "Win/Loss Analysis & Closed-Loss Reactivation",
+    "probe": "Are losses understood and re-engaged when signals change?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Losses never analysed."
+      },
+      {
+        "score": 1,
+        "description": "Informal post-mortems on big deals."
+      },
+      {
+        "score": 2,
+        "description": "Documented win/loss reasons in CRM."
+      },
+      {
+        "score": 3,
+        "description": "Quarterly win/loss program with interviews, feedback to product/marketing."
+      },
+      {
+        "score": 4,
+        "description": "Closed-lost re-engagement flows triggered by signals (tech / personnel / funding change)."
+      }
+    ],
+    "quantMetric": null
+  },
+  {
+    "id": "SP7",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 7,
+    "name": "CRM Deal Management Discipline",
+    "probe": "How disciplined is CRM data entry by reps?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Reps barely use CRM."
+      },
+      {
+        "score": 1,
+        "description": "Sporadic updates."
+      },
+      {
+        "score": 2,
+        "description": "Required fields enforced, activities partially logged."
+      },
+      {
+        "score": 3,
+        "description": "Every activity auto-logged (email/call/meeting), MEDDIC fields maintained."
+      },
+      {
+        "score": 4,
+        "description": "CRM is single source; AI summarises calls/emails into CRM automatically."
+      }
+    ],
+    "quantMetric": "% activities auto-captured"
+  },
+  {
+    "id": "SP8",
+    "layer": 7,
+    "layerName": "Sales Process",
+    "number": 8,
+    "name": "Champion Tracking & Buying Committee Mapping",
+    "probe": "Are champions and buying committees mapped and tracked?",
+    "levels": [
+      {
+        "score": 0,
+        "description": "Only one contact per account."
+      },
+      {
+        "score": 1,
+        "description": "Primary contact + one backup."
+      },
+      {
+        "score": 2,
+        "description": "Key personas documented in notes."
+      },
+      {
+        "score": 3,
+        "description": "Buying committee mapped in CRM (champion / DM / economic buyer / blockers)."
+      },
+      {
+        "score": 4,
+        "description": "Multi-threaded with champion-moved tracking (Fireflies / Clay alerts on job changes)."
+      }
+    ],
+    "quantMetric": null
+  }
+]

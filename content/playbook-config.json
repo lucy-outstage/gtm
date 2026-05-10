@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "storageKey": "outstage-playbook-v1",
+  "bands": [
+    { "id": "foundation",   "label": "Foundation",   "min":   0, "max":  56, "blurb": "No system. Founder-led, scattered." },
+    { "id": "building",     "label": "Building",     "min":  57, "max": 112, "blurb": "Tools in place, not wired." },
+    { "id": "scaling",      "label": "Scaling",      "min": 113, "max": 168, "blurb": "Systems working, room to deepen." },
+    { "id": "compounding",  "label": "Compounding",  "min": 169, "max": 224, "blurb": "Full system-led GTM. Advanced plays running." }
+  ],
+  "layerToLevels": {
+    "1": [2, 5, 6],
+    "2": [3],
+    "3": [4],
+    "4": [8, 9, 10],
+    "5": [6, 10],
+    "6": [7],
+    "7": [5, 6, 8, 10]
+  },
+  "quickWinAllowList": ["B1","B2","B7","D1","D2","S1","S2","R1","R2","O1","A1","SP1","SP2"],
+  "glossary": {
+    "ICP":      "Ideal Customer Profile. The account profile a business is best positioned to win and serve.",
+    "TAM":      "Total Addressable Market. The full revenue opportunity if every fitting account bought.",
+    "SAM":      "Serviceable Addressable Market. The slice of TAM you can realistically reach and serve.",
+    "ABM":      "Account-Based Marketing. Marketing motion that treats individual accounts as a segment of one.",
+    "BANT":     "Budget, Authority, Need, Timing. A baseline qualification framework.",
+    "MEDDIC":   "Metrics, Economic buyer, Decision criteria, Decision process, Identify pain, Champion. An enterprise qualification framework.",
+    "MEDDPICC": "MEDDIC plus Paper process and Competition. Heavier-weight enterprise qualification.",
+    "CAC":      "Customer Acquisition Cost. Total sales and marketing spend per new customer.",
+    "LTV":      "Lifetime Value. Total gross profit a customer generates over their lifecycle.",
+    "CPaaS":    "Communications Platform as a Service. APIs that let products send messages, calls, and verifications.",
+    "CPQ":      "Configure, Price, Quote. Software for assembling complex deals into priced quotes.",
+    "GEO":      "Generative Engine Optimisation. The SEO-for-LLMs work of making content cited by ChatGPT, Claude, Perplexity and Gemini.",
+    "QBR":      "Quarterly Business Review. A structured customer review of value delivered and roadmap.",
+    "TMC":      "Travel Management Company. The agency layer that manages corporate travel programmes.",
+    "OBT":      "Online Booking Tool. Self-serve booking software inside corporate travel programmes.",
+    "MQL":      "Marketing Qualified Lead. A lead that has met marketing thresholds for sales follow-up.",
+    "SQL":      "Sales Qualified Lead. A lead a salesperson has confirmed is worth pursuing."
+  }
+}
