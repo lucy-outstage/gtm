@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Work · Outstage</title>
+  <meta name="description" content="Outstage portfolio. Filterable case studies across fintech, payments, telecom, AI, SaaS, travel tech, digital assets and workforce software." />
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <header class="nav">
+    <div class="nav-inner">
+      <a class="brand" href="/"><span class="brand-mark"></span> Outstage</a>
+      <nav class="nav-links">
+        <a href="/work.html">Work</a>
+        <a href="/playbook/">GTM Playbook</a>
+        <a href="/approach.html">Approach</a>
+        <a href="/about.html">About</a>
+      </nav>
+      <a class="nav-cta" href="/contact.html">Book intro call</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="portfolio-header">
+      <div class="container">
+        <span class="eyebrow">Portfolio</span>
+        <h1>Case studies, full set.</h1>
+        <p>Every engagement, filterable by industry and work type. Search by company, sector, or motion.</p>
+      </div>
+    </section>
+
+    <div class="filters">
+      <div class="filters-inner">
+        <div class="filter-group">
+          <span class="filter-label">Industry</span>
+          <select class="filter-select" id="filter-industry"></select>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Work type</span>
+          <select class="filter-select" id="filter-work"></select>
+        </div>
+        <div class="search-box">
+          <input type="search" class="search-input" id="filter-search" placeholder="Search case studies" />
+        </div>
+      </div>
+    </div>
+
+    <section style="padding-top:48px">
+      <div class="container">
+        <div class="results-meta" id="portfolio-meta"></div>
+        <div class="case-grid" id="portfolio-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <a class="brand" href="/"><span class="brand-mark"></span> Outstage</a>
+          <p>GTM systems for complex B2B companies.</p>
+        </div>
+        <div class="footer-col"><h5>Site</h5><ul><li><a href="/work.html">Work</a></li><li><a href="/playbook/">GTM Playbook</a></li><li><a href="/approach.html">Approach</a></li><li><a href="/about.html">About</a></li></ul></div>
+        <div class="footer-col"><h5>Playbook</h5><ul><li><a href="/playbook/audit.html">Take the audit</a></li><li><a href="/playbook/">The 10 Levels</a></li><li><a href="/playbook/results.html">Download summary</a></li></ul></div>
+        <div class="footer-col"><h5>Contact</h5><ul><li><a href="/contact.html">Book intro call</a></li><li><a href="mailto:hello@outstage.com">hello@outstage.com</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><span>© <span data-year></span> Outstage</span><span>Built for complex B2B GTM.</span></div>
+    </div>
+  </footer>
+
+  <script src="/js/data.js"></script>
+  <script src="/js/render.js"></script>
+  <script src="/js/site.js"></script>
+  <script src="/js/portfolio.js"></script>
+</body>
+</html>

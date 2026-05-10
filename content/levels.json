@@ -1,0 +1,410 @@
+[
+  {
+    "number": 1,
+    "slug": "revenue-architecture",
+    "name": "Revenue Architecture",
+    "headline": "Understanding how the business makes money.",
+    "oneLineDistillation": "How the business makes money, what enables growth, and what blocks it.",
+    "whyItMatters": "Most GTM mistakes start in the wrong place. Before positioning, before pipeline, before any campaign, the operator has to understand the commercial physics of the business. How revenue is generated, what makes it easier, what restricts it, where the leverage actually sits. Get this wrong and every later move is built on the wrong floor.",
+    "whatSitsInside": [
+      { "title": "Understand the main business goal" },
+      { "title": "Understand the business model dynamics", "detail": "Transactional, licence, usage, hybrid, B2B2B." },
+      { "title": "Identify revenue concentration and customer concentration risk" },
+      { "title": "Identify the growth enablers", "detail": "What makes revenue easier." },
+      { "title": "Identify the growth restrictors", "detail": "What blocks revenue." },
+      { "title": "Map the unit economics", "detail": "CAC, LTV, payback period, gross margin." },
+      { "title": "Map the sales cycle reality", "detail": "Length, decision-maker count, deal size by segment." }
+    ],
+    "strategicAreas": [
+      "Business model analysis", "Revenue architecture", "Pricing and packaging structure",
+      "Transactional vs licence-based models", "Marketplace vs SaaS vs infrastructure economics",
+      "B2B vs B2B2B vs ecosystem models", "Expansion economics", "Sales cycle complexity",
+      "Procurement and implementation dynamics", "Commercial bottlenecks",
+      "Growth enablers and restrictors", "Strategic business objectives", "Revenue journey mapping",
+      "Market timing analysis", "Competitive market maturity", "Operational scalability constraints",
+      "Partner dependency analysis", "Retention and expansion economics"
+    ],
+    "keyOutputs": [
+      "Revenue map",
+      "Business model blueprint",
+      "Commercial architecture overview",
+      "Growth restrictor analysis",
+      "Expansion opportunity map and strategic GTM priorities"
+    ],
+    "feedingAuditDimensions": [],
+    "auditNote": "L1 sits before the audit. There is no diagnostic layer feeding it. The reader brings their own commercial physics to the rest of the system.",
+    "caseStudyCategory": "Startup GTM Foundations",
+    "caseStudySlugs": ["kintec-just-accounts", "credissimo", "iwoca"]
+  },
+  {
+    "number": 2,
+    "slug": "market-understanding-positioning",
+    "name": "Market Understanding & Positioning",
+    "headline": "Creating the clearest commercial brief possible.",
+    "oneLineDistillation": "The brief that the rest of the system runs on.",
+    "whyItMatters": "Everything downstream runs on the brief. ICP, positioning, messaging, anti-fit, the one-liner. If these are vague, every subsequent system inherits the vagueness. Sharp positioning is the cheapest leverage in GTM, and the easiest thing to leave half-finished.",
+    "whatSitsInside": [
+      { "title": "Understand or update ICPs from an account and contact point of view" },
+      { "title": "Understand or update positioning" },
+      { "title": "Understand or update the messaging house" },
+      { "title": "Map the market language and all its acronyms" },
+      { "title": "Translate technical complexity into commercial understanding" },
+      { "title": "Define anti-fit", "detail": "Who you do not sell to." },
+      { "title": "Build the one-liner and the elevator pitch" },
+      { "title": "Define the category narrative", "detail": "Creator, defender, follower." }
+    ],
+    "strategicAreas": [
+      "ICP definition and refinement", "Account segmentation", "Buyer persona mapping",
+      "Buying committee mapping", "Positioning strategy", "Messaging house development",
+      "Market language analysis", "Acronym and terminology mapping", "Technical-to-commercial translation",
+      "Problem-solution alignment", "Category positioning", "Narrative positioning",
+      "Differentiation analysis", "Buyer psychology mapping", "Trust trigger identification",
+      "Objection mapping", "Market education requirements", "Use case prioritisation",
+      "Industry-specific messaging", "Commercial storytelling systems",
+      "Account prioritisation systems", "ICP scoring systems"
+    ],
+    "keyOutputs": [
+      "Market segmentation framework",
+      "ICP framework",
+      "Buyer journey map",
+      "Positioning framework",
+      "Commercial narrative system",
+      "Account prioritisation model"
+    ],
+    "feedingAuditDimensions": ["B1", "B2", "B8"],
+    "caseStudyCategory": "Startup GTM Foundations + Infrastructure & Payments GTM",
+    "caseStudySlugs": ["bitpanda", "outrun", "kintec-just-accounts"]
+  },
+  {
+    "number": 3,
+    "slug": "ecosystem-mapping",
+    "name": "Ecosystem & Market Mapping",
+    "headline": "Mapping the zoo.",
+    "oneLineDistillation": "The list is the market. The brief becomes a working set of accounts.",
+    "whyItMatters": "An ICP on a slide is not a market. The list is the market. Until competitors, partners, journalists, events and accounts are mapped, segmented and tiered, the ICP cannot be acted on. This is where the abstract becomes a working set of accounts and contacts the rest of the system can run against.",
+    "whatSitsInside": [
+      { "title": "Build the TAM and ecosystem map" },
+      { "title": "Map competitors, partners, influencers, journalists, and events" },
+      { "title": "Segment and prioritise ICPs", "detail": "Tier 1, 2, 3 with fit criteria." },
+      { "title": "Create structured market databases and lists" },
+      { "title": "Engineer account prioritisation systems" },
+      { "title": "Build the six lists", "detail": "Competitors, partners, ICPs, adjacent excellent companies, events, influencers/journalists/consultants." },
+      { "title": "Set up enrichment infrastructure", "detail": "Firmographic, contact waterfall, custom data points." },
+      { "title": "Manage data decay against the 22%/year baseline" }
+    ],
+    "strategicAreas": [
+      "TAM and SAM mapping", "Ecosystem architecture", "Competitor analysis",
+      "Partner ecosystem mapping", "Integration ecosystem analysis", "Channel ecosystem mapping",
+      "Influencer identification", "Journalist and analyst mapping", "Event ecosystem mapping",
+      "Community landscape analysis", "Industry association mapping", "Procurement influence mapping",
+      "Buyer network analysis", "Strategic account mapping", "White-label ecosystem analysis",
+      "Adjacent industry learning analysis", "Market segmentation systems", "Opportunity clustering",
+      "Strategic prioritisation systems", "Structured market database design",
+      "CRM data architecture", "Account intelligence infrastructure"
+    ],
+    "keyOutputs": [
+      "Ecosystem map",
+      "Competitive intelligence structure",
+      "TAM and SAM database",
+      "Strategic account lists, ABM",
+      "Scoring system",
+      "Partner map",
+      "Events map",
+      "Media and influencers map"
+    ],
+    "feedingAuditDimensions": ["D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8"],
+    "caseStudyCategory": "Infrastructure & Payments GTM",
+    "caseStudySlugs": ["conferma", "visa-commercial-pay", "hotelhub"]
+  },
+  {
+    "number": 4,
+    "slug": "signals-intelligence",
+    "name": "Signals & Market Intelligence",
+    "headline": "Listening for content appetite and buying appetite.",
+    "oneLineDistillation": "What the market is saying and when accounts are moving.",
+    "whyItMatters": "The market is always sending signals. Most companies do not have the infrastructure to hear them. Listening systems do two jobs at once. Content listening tells you what to publish; signal listening tells you when to reach out. Without them, content is broadcast and outbound is guesswork.",
+    "whatSitsInside": [
+      { "title": "Build social listening systems" },
+      { "title": "Monitor competitor positioning and market narratives", "detail": "Press, blogs, podcasts, LinkedIn, Twitter, Substack, Reddit." },
+      { "title": "Track funding, hiring, partnerships, launches, and buying signals" },
+      { "title": "Build trigger-based outreach systems" },
+      { "title": "Connect signals into CRM and outbound workflows" },
+      { "title": "Set up website visitor de-anonymisation" },
+      { "title": "Capture LinkedIn engagement", "detail": "Post engagers, profile visitors." },
+      { "title": "Build third-party intent signal capture", "detail": "G2, Bombora, 6sense." },
+      { "title": "Score accounts on fit × intent" },
+      { "title": "Build lead-to-account matching" },
+      { "title": "Engineer signal-to-action routing", "detail": "Sub-1-hour SLA." }
+    ],
+    "strategicAreas": [
+      "Social listening systems", "Competitor monitoring", "Narrative tracking", "Press monitoring",
+      "Product launch tracking", "Funding signal monitoring", "Hiring signal monitoring",
+      "Partnership signal monitoring", "Executive movement tracking", "Event attendance tracking",
+      "Social engagement tracking", "Intent signal analysis", "Trigger-event architecture",
+      "Buyer readiness detection", "Content engagement analysis", "Signal scoring systems",
+      "CRM signal enrichment", "Workflow automation", "Signal routing systems",
+      "Alert infrastructure", "Trigger-based outreach logic", "AI-assisted signal interpretation",
+      "Market intelligence dashboards"
+    ],
+    "keyOutputs": [
+      "Signal infrastructure",
+      "Trigger framework",
+      "Intent monitoring systems",
+      "Market intelligence workflows",
+      "CRM enrichment architecture",
+      "Signal-based prioritisation models"
+    ],
+    "feedingAuditDimensions": ["S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8"],
+    "caseStudyCategory": "Enterprise & AI Enablement",
+    "caseStudySlugs": ["vonage-ericsson", "grapevine", "mailchimp"]
+  },
+  {
+    "number": 5,
+    "slug": "demand-creation",
+    "name": "Demand Creation & Relationship GTM",
+    "headline": "Building prospect delight systems.",
+    "oneLineDistillation": "When the listening system fires, this is what the prospect meets.",
+    "whyItMatters": "When the listening system fires, this is what the prospect meets. Every first encounter is either remarkable or wasted. Content as pre-sales infrastructure, diagnostic-first sales, sales rooms, IRL events; these are the surfaces where trust gets built before any pitch lands. Listening without first-touch design is just expensive surveillance.",
+    "whatSitsInside": [
+      { "title": "Create content as pre-sales infrastructure", "detail": "The silent 80% of buyer research." },
+      { "title": "Build event-led and relationship-led GTM motions" },
+      { "title": "Design diagnostic-first sales processes", "detail": "No pitch in the first meeting." },
+      { "title": "Build sales enablement assets and sales rooms", "detail": "Per-deal, instrumented, decision-maker visible." },
+      { "title": "Run IRL events", "detail": "Live, online, in-person." },
+      { "title": "Run podcast and visibility partnerships" },
+      { "title": "Run the first-touch decision tree", "detail": "Continue the signal, invite to high-value event, offer third-party report." },
+      { "title": "Build the diagnostic framework", "detail": "Benchmark, peer comparison, health-check." },
+      { "title": "Pre-write outreach templates per signal type" }
+    ],
+    "strategicAreas": [
+      "Content as pre-sales infrastructure", "Educational GTM systems", "Event-led GTM",
+      "Relationship-led GTM", "Community-led GTM", "Webinar systems", "Podcast partnerships",
+      "Media partnerships", "Executive interview systems", "Report and benchmark creation",
+      "Roundtable strategy", "Diagnostic-first sales processes", "Trust-building sales journeys",
+      "Sales room design", "Sales enablement systems", "Buyer education infrastructure",
+      "Workshop-based selling", "Thought leadership systems", "Event strategy and activation",
+      "Dinner and networking strategy", "IRL relationship systems", "Buyer engagement sequencing",
+      "Commercial trust infrastructure"
+    ],
+    "keyOutputs": [
+      "Content infrastructure",
+      "Event strategy",
+      "Sales enablement system",
+      "Diagnostic sales frameworks",
+      "Relationship acceleration systems",
+      "Educational GTM assets"
+    ],
+    "feedingAuditDimensions": ["B4", "B6", "SP2", "SP3", "SP8"],
+    "caseStudyCategory": "LinkedIn & Employee Advocacy",
+    "caseStudySlugs": ["vaibe", "kiin", "web-summit", "mwc-barcelona"]
+  },
+  {
+    "number": 6,
+    "slug": "distribution-activation",
+    "name": "Distribution & Signal-Based Activation",
+    "headline": "Engineering attention, reach, and commercial timing.",
+    "oneLineDistillation": "Founder, executive and employee distribution; signal-driven outbound on the same logic.",
+    "whyItMatters": "Reach is a system, not a personality. Founders, executives, ICP-lookalike employees and self-appointed enthusiasts each carry distribution if you give them positioning, content pillars, cadence and a way to operate. Signal-based outbound rides the same logic. The right person says the right thing to the right account at the right moment.",
+    "whatSitsInside": [
+      { "title": "Build founder and employee advocacy systems" },
+      { "title": "Design LinkedIn and personal brand distribution systems" },
+      { "title": "Activate in order", "detail": "Founders, executive team, ICP-lookalike employees, self-appointed enthusiasts." },
+      { "title": "Create outbound campaigns around signals and timing" },
+      { "title": "Engineer customer journeys and deal acceleration systems" },
+      { "title": "Build positioning per LinkedIn profile", "detail": "Four content pillars per person, four posts per week cadence." },
+      { "title": "Self-produced content with gamification, or ghostwritten and ghost-commented under delegation" },
+      { "title": "Pre-populate outreach templates connected to signal triggers" },
+      { "title": "GEO across every asset" }
+    ],
+    "strategicAreas": [
+      "Founder-led marketing systems", "Executive visibility systems", "Employee advocacy systems",
+      "LinkedIn distribution systems", "Personal branding frameworks",
+      "Content distribution infrastructure", "Signal-based outbound campaigns",
+      "Trigger-based outreach", "ICP-aligned creator systems", "Ghostwriting operations",
+      "Content repurposing systems", "Audience building systems", "Community engagement systems",
+      "Relationship warming systems", "Social proof amplification", "Content cadence systems",
+      "Signal amplification systems", "GEO optimisation across assets",
+      "Search discoverability systems", "AI discoverability optimisation",
+      "Deal acceleration content systems", "Customer journey orchestration",
+      "Multi-touch visibility systems"
+    ],
+    "keyOutputs": [
+      "GEO framework",
+      "Employee advocacy framework",
+      "LinkedIn operating system",
+      "Distribution architecture",
+      "Signal-based campaign structure",
+      "Executive brand system",
+      "Content activation engine"
+    ],
+    "feedingAuditDimensions": ["B5", "O2", "O3", "O4", "O5", "O7"],
+    "caseStudyCategory": "LinkedIn & Employee Advocacy",
+    "caseStudySlugs": ["vaibe", "kiin", "bitpanda", "vonage-ericsson"]
+  },
+  {
+    "number": 7,
+    "slug": "paid-acquisition",
+    "name": "Paid Acquisition & Amplification",
+    "headline": "Scaling reach through paid distribution.",
+    "oneLineDistillation": "The amplifier, not the engine.",
+    "whyItMatters": "Paid is the amplifier, not the engine. Once the listening system, advocacy and outbound are running, paid scales the parts that work and defends the brand searches that come of them. Without the rest of the stack, paid is rented attention.",
+    "whatSitsInside": [
+      { "title": "LinkedIn", "detail": "Organic-aligned, ABM, retargeting, Thought Leader Ads." },
+      { "title": "Google Ads", "detail": "Search demand capture, brand defence, intent keywords." },
+      { "title": "Meta Ads", "detail": "Top-of-funnel demand generation, retargeting where ICP is present." },
+      { "title": "Define the role of paid in pipeline", "detail": "Demand gen, demand capture, ABM." },
+      { "title": "Build the channel mix and budget allocation logic" },
+      { "title": "Build ABM lists synced from CRM, refreshed on new accounts" },
+      { "title": "Wire signal-triggered retargeting", "detail": "Spend ramps when an account shows intent." },
+      { "title": "Build the creative system", "detail": "Atomised from sales conversations, persona-matched, refreshed weekly." },
+      { "title": "Build personalised account-aware landing pages" },
+      { "title": "Set up multi-touch attribution feeding CRM forecast" },
+      { "title": "Integrate ads with outbound and CRM as one pipeline, three channels" }
+    ],
+    "strategicAreas": [
+      "LinkedIn Ads systems", "Google Ads systems", "Meta Ads systems",
+      "Paid content amplification", "Sponsored thought leadership", "Retargeting infrastructure",
+      "Demand capture systems", "Paid ABM systems", "Event amplification campaigns",
+      "Webinar acquisition systems", "Audience retargeting", "Paid social experimentation",
+      "Conversion architecture", "Landing page systems", "Attribution systems",
+      "CPC and CAC analysis", "Funnel optimisation", "Multi-channel paid orchestration",
+      "Creative testing systems", "Paid distribution analytics"
+    ],
+    "keyOutputs": [
+      "Paid GTM framework",
+      "Ad infrastructure",
+      "Retargeting systems",
+      "Funnel optimisation systems",
+      "Attribution model",
+      "Paid amplification strategy"
+    ],
+    "feedingAuditDimensions": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8"],
+    "caseStudyCategory": "LinkedIn & Employee Advocacy",
+    "caseStudySlugs": ["kiin", "iwoca", "credissimo"]
+  },
+  {
+    "number": 8,
+    "slug": "revenue-orchestration",
+    "name": "Revenue Orchestration & Customer Activation",
+    "headline": "Aligning teams around customer momentum.",
+    "oneLineDistillation": "Most pipeline leaks at the seams between teams.",
+    "whyItMatters": "Most pipeline leaks at the seams between teams, not inside any one team. Marketing-to-sales handoffs, sales-to-CS handoffs, deal-desk discipline, forecast accuracy. These are the seams. Orchestrate them and the same pipeline carries materially more revenue with materially less heroics.",
+    "whatSitsInside": [
+      { "title": "Coordinate sales, product, marketing, partnerships, and customer success as one revenue motion" },
+      { "title": "Support onboarding and customer activation" },
+      { "title": "Define and govern handoff SLAs across marketing, sales, CS" },
+      { "title": "Document pipeline stages with exit criteria and deal-desk governance" },
+      { "title": "Build forecasting discipline", "detail": "Target 85%+ accuracy." },
+      { "title": "Design qualification framework", "detail": "BANT, MEDDIC, MEDDPICC, and enforce in CRM." },
+      { "title": "Set up call recording, coaching, and AI insight loops back into pipeline and content" },
+      { "title": "Build win/loss analysis as a quarterly programme with feedback to product and marketing" },
+      { "title": "Build closed-lost reactivation triggered by signal changes" },
+      { "title": "Build buying committee mapping with champion-moved tracking" },
+      { "title": "Build proposal and quote-to-cash automation with discount governance" }
+    ],
+    "strategicAreas": [
+      "Revenue operations alignment", "Cross-functional GTM coordination",
+      "Sales and marketing alignment", "Product-to-market alignment", "Customer onboarding systems",
+      "Customer activation systems", "Time-to-value optimisation", "Customer education systems",
+      "Implementation journey mapping", "Customer health scoring", "Lifecycle coordination",
+      "Customer feedback loops", "Internal enablement systems", "GTM workflow orchestration",
+      "Handoff optimisation", "Post-sale communication systems", "Customer success enablement",
+      "Product adoption systems", "Internal reporting systems",
+      "Commercial accountability structures", "Team operating rhythms"
+    ],
+    "keyOutputs": [
+      "Sales cycles, CRM",
+      "Revenue orchestration system",
+      "Onboarding framework",
+      "Activation systems",
+      "Cross-functional GTM workflows",
+      "Customer journey infrastructure",
+      "Lifecycle coordination models"
+    ],
+    "feedingAuditDimensions": ["R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8", "SP1", "SP2", "SP3", "SP4", "SP5", "SP6", "SP7", "SP8"],
+    "caseStudyCategory": "Enterprise & AI Enablement",
+    "caseStudySlugs": ["vonage-ericsson", "mailchimp", "hotelhub"]
+  },
+  {
+    "number": 9,
+    "slug": "ecosystem-expansion",
+    "name": "Ecosystem Expansion & Partner Enablement",
+    "headline": "Turning customers into distribution channels.",
+    "oneLineDistillation": "The second funnel: where ecosystem businesses leak the most revenue.",
+    "whyItMatters": "B2B2B and white-label models have a second funnel inside them. The customer signs, then has to sell your product onward. Most companies are not set up for this. The companies that solve it compound, partner growth becomes the dominant revenue line, the original sale becomes a starting point.",
+    "whatSitsInside": [
+      { "title": "Create partner enablement systems" },
+      { "title": "Build white-label activation systems", "detail": "The customer running your playbook on their customers." },
+      { "title": "Build lifecycle and upsell communication systems" },
+      { "title": "Provide 80%-built templates for every touchpoint", "detail": "ICP sizing, messaging house, outbound campaigns, diagnostic session, sales room template, enablement collateral." },
+      { "title": "Build renewal pipeline with stage logic and forecasting" },
+      { "title": "Build expansion plays triggered by usage and signals" },
+      { "title": "Set up health scoring, QBRs, and expansion automation" },
+      { "title": "Build lifecycle communications tied to product usage and milestones" }
+    ],
+    "strategicAreas": [
+      "Partner enablement systems", "White-label activation systems", "Reseller GTM systems",
+      "Partner onboarding", "Co-selling frameworks", "Partner sales playbooks",
+      "Marketplace activation", "Channel marketing systems", "Partner lifecycle communication",
+      "Upsell systems", "Expansion communication systems", "Ecosystem-led growth systems",
+      "Secondary funnel enablement", "Partner education systems", "Co-marketing infrastructure",
+      "Strategic alliance systems", "Integration partnership systems", "Referral systems",
+      "Expansion trigger systems", "Partner analytics and visibility", "Ecosystem reporting systems"
+    ],
+    "keyOutputs": [
+      "Partner GTM framework",
+      "White-label enablement system",
+      "Expansion communication systems",
+      "Ecosystem growth infrastructure",
+      "Partner lifecycle framework",
+      "Secondary distribution engine"
+    ],
+    "feedingAuditDimensions": ["R7"],
+    "caseStudyCategory": "Infrastructure & Payments GTM",
+    "caseStudySlugs": ["conferma", "bitpanda", "metaco"]
+  },
+  {
+    "number": 10,
+    "slug": "operating-system",
+    "name": "Commercial Operating Systems & Visibility",
+    "headline": "Building the GTM operating system.",
+    "oneLineDistillation": "The meta-layer that turns nine excellent parts into one compounding business.",
+    "whyItMatters": "Nine excellent parts do not make a system. Visibility, dashboards, automation, AI workflows, GEO, weekly cadence; this is the layer that turns the parts into a compounding business. Without it, you have a collection of tactics. With it, you have a GTM operating system.",
+    "whatSitsInside": [
+      { "title": "Visibility and analytics across the revenue journey", "detail": "Weekly, monthly, quarterly, half-yearly and annual updates and reports." },
+      { "title": "Turn ecosystem complexity into scalable revenue systems" },
+      { "title": "Build the operating system between product and market" },
+      { "title": "Engineer trust, attention, and commercial momentum" },
+      { "title": "Build workflow automation and reporting systems" },
+      { "title": "Build CRM-native dashboards", "detail": "Pipeline, velocity, conversion, CAC." },
+      { "title": "Build executive BI layer with predictive forecasting" },
+      { "title": "Build the workflow automation library", "detail": "n8n, Make, Zapier, native." },
+      { "title": "Embed AI agents in workflows with full observability" },
+      { "title": "Set up reply classification and disposition routing" },
+      { "title": "Run GEO across every asset" },
+      { "title": "Maintain the lists. Refresh them. Audit them. Everything starts there." }
+    ],
+    "strategicAreas": [
+      "GTM operating systems", "Revenue visibility systems", "Workflow automation",
+      "Reporting infrastructure", "Weekly, monthly, quarterly, half-year and annual reporting systems",
+      "CRM architecture", "Dashboard systems", "Analytics and attribution",
+      "Pipeline visibility", "Lifecycle analytics", "GTM intelligence systems",
+      "AI-assisted workflow systems", "Commercial forecasting", "Operational reporting",
+      "Cross-functional reporting", "Executive visibility systems", "GTM process documentation",
+      "Knowledge management systems", "Internal learning systems", "GTM governance",
+      "Workflow orchestration", "Scalable systems design", "Commercial operating cadence",
+      "Revenue intelligence infrastructure"
+    ],
+    "keyOutputs": [
+      "GTM operating system",
+      "Revenue visibility framework",
+      "Reporting infrastructure",
+      "Automation architecture",
+      "Commercial intelligence dashboards",
+      "Scalable workflow systems"
+    ],
+    "feedingAuditDimensions": ["R5", "R6", "R8", "O8", "SP5", "SP7"],
+    "caseStudyCategory": "Enterprise & AI Enablement",
+    "caseStudySlugs": ["vonage-ericsson", "conferma", "mailchimp"]
+  }
+]
