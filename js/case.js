@@ -11,9 +11,9 @@ document.addEventListener("DOMContentLoaded", () => {
     root.innerHTML = `
       <section class="cs-header">
         <div class="container">
-          <a class="cs-back" href="/work.html">All case studies</a>
+          <a class="cs-back" href="work.html">All case studies</a>
           <h1>Case study not found</h1>
-          <p class="cs-lead">We couldn't find a case study with that slug. <a href="/work.html">Back to portfolio</a>.</p>
+          <p class="cs-lead">We couldn't find a case study with that slug. <a href="work.html">Back to portfolio</a>.</p>
         </div>
       </section>`;
     document.title = "Case study not found · Outstage";
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
   root.innerHTML = `
     <section class="cs-header">
       <div class="container">
-        <a class="cs-back" href="/work.html">All case studies</a>
+        <a class="cs-back" href="work.html">All case studies</a>
         <div class="cs-eyebrow">${escapeHtml(c.category)}</div>
         <h1>${escapeHtml(c.name)}</h1>
         <p class="cs-lead">${escapeHtml(c.challenge)}</p>

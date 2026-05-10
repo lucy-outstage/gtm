@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       <section class="page-header"><div class="container">
         <h1>No audit results yet</h1>
         <p>Take the audit to see your score, band, and personalised reading path.</p>
-        <div class="btn-row" style="margin-top:24px"><a class="btn btn-primary" href="audit.html">Take the audit</a></div>
+        <div class="btn-row" style="margin-top:24px"><a class="btn btn-primary" href="playbook/audit.html">Take the audit</a></div>
       </div></section>`;
     return;
   }
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       <section class="page-header"><div class="container">
         <h1>Audit in progress</h1>
         <p>${answered} of 56 answered. ${remaining} to go before we generate results.</p>
-        <div class="btn-row" style="margin-top:24px"><a class="btn btn-primary" href="audit.html">Resume audit</a></div>
+        <div class="btn-row" style="margin-top:24px"><a class="btn btn-primary" href="playbook/audit.html">Resume audit</a></div>
       </div></section>`;
     return;
   }
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         <div class="btn-row results-actions">
           <a class="btn btn-primary" href="#reading-path">See your reading path</a>
           <button class="btn btn-secondary" type="button" onclick="window.print()">Download summary</button>
-          <a class="btn btn-ghost" href="audit.html?layer=1">Edit answers</a>
+          <a class="btn btn-ghost" href="playbook/audit.html?layer=1">Edit answers</a>
         </div>
       </div>
     </section>
@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   function levelRow(n, badge) {
     const l = PB.levelByNumber(n);
     return `
-      <a class="reading-path-row" href="levels/level.html?slug=${encodeURIComponent(l.slug)}">
+      <a class="reading-path-row" href="playbook/levels/level.html?slug=${encodeURIComponent(l.slug)}">
         <span class="reading-path-num">L${l.number}</span>
         <div>
           <div class="reading-path-name">${escapeHtml(l.name)}</div>

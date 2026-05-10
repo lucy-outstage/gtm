@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Allow ?n=1..10 too
   if (!level && params.get("n")) level = PB.levelByNumber(parseInt(params.get("n"), 10));
   if (!level) {
-    root.innerHTML = `<section class="cs-header"><div class="container"><a class="cs-back" href="../index.html">All Levels</a><h1>Level not found</h1></div></section>`;
+    root.innerHTML = `<section class="cs-header"><div class="container"><a class="cs-back" href="playbook/">All Levels</a><h1>Level not found</h1></div></section>`;
     return;
   }
   document.title = `Level ${level.number}: ${level.name} · Outstage Playbook`;
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         <div class="level-diagnostic">
           <h3>Your diagnostic view</h3>
           <p class="muted">Take the audit to see your scores for ${dims.length} dimensions feeding this level.</p>
-          <a class="btn btn-secondary" href="../audit.html">Take the audit</a>
+          <a class="btn btn-secondary" href="playbook/audit.html">Take the audit</a>
         </div>`;
     } else {
       const subtotal = answeredDims.reduce((s, d) => s + state.answers[d.id], 0);
@@ -79,8 +79,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Continue link
   const next = PB.levelByNumber(level.number + 1);
   const continueHtml = next
-    ? `<a class="level-continue" href="level.html?slug=${encodeURIComponent(next.slug)}">Continue to Level ${next.number}: ${escapeHtml(next.name)} →</a>`
-    : `<a class="level-continue" href="../results.html">Back to your results →</a>`;
+    ? `<a class="level-continue" href="playbook/levels/level.html?slug=${encodeURIComponent(next.slug)}">Continue to Level ${next.number}: ${escapeHtml(next.name)} →</a>`
+    : `<a class="level-continue" href="playbook/results.html">Back to your results →</a>`;
 
   // Sidebar facts
   const sideHtml = `
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         ${dims.length ? `<div><dt>Audit dimensions feeding this level</dt><dd><div class="cs-tags">${dims.map((d) => `<span class="cs-tag">${escapeHtml(d.id)}</span>`).join("")}</div></dd></div>` : ""}
         <div><dt>Audit subtotal</dt><dd>${dims.length ? renderSubtotal(state, dims) : "Pre-audit"}</dd></div>
       </dl>
-      <div style="margin-top:16px"><a class="arrow-link" href="../audit.html">Take or resume audit</a></div>
+      <div style="margin-top:16px"><a class="arrow-link" href="playbook/audit.html">Take or resume audit</a></div>
     </aside>`;
 
   function renderSubtotal(state, dims) {
@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   root.innerHTML = `
     <section class="cs-header level-header">
       <div class="container">
-        <a class="cs-back" href="../index.html">All Levels</a>
+        <a class="cs-back" href="playbook/">All Levels</a>
         <div class="cs-eyebrow">Level ${level.number}</div>
         <h1>${escapeHtml(level.name)}</h1>
         <p class="cs-lead">${escapeHtml(level.headline)}</p>
