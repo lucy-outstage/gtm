@@ -1,0 +1,302 @@
+The 10 GTM Levels
+A postmodern Go-To-Market Operating System for Ecosystem, Infrastructure & Relationship-Led B2B Companies
+
+This framework maps the complete commercial operating system between:
+product,
+market,
+trust,
+distribution,
+activation,
+partnerships,
+and revenue.
+
+It is designed for:
+B2B SaaS,
+infrastructure,
+fintech,
+APIs,
+telecom,
+AI,
+martech,
+ecosystem businesses,
+white-label platforms,
+and complex enterprise sales environments.
+
+The system moves from:
+ understanding the market
+ → to listening to the market
+ → to orchestrating trust
+ → to accelerating revenue
+ → to enabling ecosystems
+ → to compounding commercial intelligence.
+
+
+LEVEL 1 — REVENUE ARCHITECTURE
+Understanding How the Business Makes Money
+
+Core Focus
+Path to Revenue. How does this business make money, and what are its growth enablers and growth restrictors? Before anything else gets touched, the GTM operator has to understand the commercial physics of the business.
+
+What sits inside this level:
+- Understand the main business goal
+- Understand the business model dynamics (transactional, licence, usage, hybrid, B2B2B)
+- Identify revenue concentration and customer concentration risk
+- Identify the growth enablers (what makes revenue easier)
+- Identify the growth restrictors (what blocks revenue)
+- Map the unit economics (CAC, LTV, payback period, gross margin)
+- Map the sales cycle reality (length, decision-maker count, deal size by segment)
+
+Strategic Areas
+Business model analysis, revenue architecture, pricing and packaging structure, transactional vs licence-based models, marketplace vs SaaS vs infrastructure economics, B2B vs B2B2B vs ecosystem models, expansion economics, sales cycle complexity, procurement and implementation dynamics, commercial bottlenecks, growth enablers and restrictors, strategic business objectives, revenue journey mapping, market timing analysis, competitive market maturity, operational scalability constraints, partner dependency analysis, retention and expansion economics.
+
+Key Outputs
+Revenue map. Business model blueprint. Commercial architecture overview. Growth restrictor analysis. Expansion opportunity map and strategic GTM priorities.
+
+Audit layers feeding this level: Pre-audit thinking. No direct audit layer.
+
+
+LEVEL 2 — MARKET UNDERSTANDING & POSITIONING
+Creating the Clearest Commercial Brief Possible
+
+Core Focus
+Position or ensure current positioning of the business so that everything downstream can work. The output of this part is the brief that the rest of the system runs on.
+
+What sits inside this level:
+- Understand or update ICPs from an account and contact point of view
+- Understand or update positioning
+- Understand or update the messaging house
+- Map the market language and all its acronyms
+- Translate technical complexity into commercial understanding
+- Define anti-fit (who you do not sell to)
+- Build the one-liner and the elevator pitch
+- Define the category narrative (creator, defender, follower)
+
+Strategic Areas
+ICP definition and refinement, account segmentation, buyer persona mapping, buying committee mapping, positioning strategy, messaging house development, market language analysis, acronym and terminology mapping, technical-to-commercial translation, problem-solution alignment, category positioning, narrative positioning, differentiation analysis, buyer psychology mapping, trust trigger identification, objection mapping, market education requirements, use case prioritisation, industry-specific messaging, commercial storytelling systems, account prioritisation systems, ICP scoring systems.
+
+Key Outputs
+Market segmentation framework. ICP framework. Buyer journey map. Positioning framework. Commercial narrative system. Account prioritisation model.
+
+Audit layers feeding this level: Brand B1 ICP Definition Clarity, B2 Positioning & One-Liner, B8 Category Narrative.
+
+
+LEVEL 3 — ECOSYSTEM & MARKET MAPPING
+Mapping the Zoo
+
+Core Focus
+Turn the brief into structured market intelligence. The lists, the database, the segmentation. This is where the abstract ICP becomes a working set of accounts and contacts.
+
+What sits inside this level:
+- Build the TAM and ecosystem map
+- Map competitors, partners, influencers, journalists, and events
+- Segment and prioritise ICPs (Tier 1, 2, 3 with fit criteria)
+- Create structured market databases and lists
+- Engineer account prioritisation systems
+- Build the six lists: competitors, partners, ICPs, adjacent excellent companies, events, influencers/journalists/consultants
+- Set up enrichment infrastructure (firmographic, contact waterfall, custom data points)
+- Manage data decay against the 22%/year baseline
+
+Strategic Areas
+TAM and SAM mapping, ecosystem architecture, competitor analysis, partner ecosystem mapping, integration ecosystem analysis, channel ecosystem mapping, influencer identification, journalist and analyst mapping, event ecosystem mapping, community landscape analysis, industry association mapping, procurement influence mapping, buyer network analysis, strategic account mapping, white-label ecosystem analysis, adjacent industry learning analysis, market segmentation systems, opportunity clustering, strategic prioritisation systems, structured market database design, CRM data architecture, account intelligence infrastructure.
+
+Key Outputs
+Ecosystem map. Competitive intelligence structure. TAM and SAM database. Strategic account lists, ABM. Scoring system. Partner map. Events map. Media and influencers map.
+
+Audit layers feeding this level: Layer 2 (Data) in full. D1 CRM as Source of Truth, D2 TAM Mapping, D3 Account Firmographic Enrichment, D4 Contact Enrichment, D5 ICP Fit Scoring, D6 Cross-Tool Data Sync, D7 Data Coverage vs TAM, D8 Data Decay Management.
+
+
+LEVEL 4 — SIGNALS & MARKET INTELLIGENCE
+Listening for Content Appetite and Buying Appetite
+
+Core Focus
+Build the system that tells you what the market is saying and when accounts are moving. Two jobs sharing infrastructure: content listening tells you what to publish, signal listening tells you when to reach out.
+
+What sits inside this level:
+- Build social listening systems
+- Monitor competitor positioning and market narratives across press, blogs, podcasts, LinkedIn, Twitter, Substack, Reddit
+- Track funding, hiring, partnerships, launches, and buying signals
+- Build trigger-based outreach systems
+- Connect signals into CRM and outbound workflows
+- Set up website visitor de-anonymisation
+- Capture LinkedIn engagement (post engagers, profile visitors)
+- Build third-party intent signal capture (G2, Bombora, 6sense)
+- Score accounts on fit × intent
+- Build lead-to-account matching
+- Engineer signal-to-action routing with sub-1-hour SLA
+
+Strategic Areas
+Social listening systems, competitor monitoring, narrative tracking, press monitoring, product launch tracking, funding signal monitoring, hiring signal monitoring, partnership signal monitoring, executive movement tracking, event attendance tracking, social engagement tracking, intent signal analysis, trigger-event architecture, buyer readiness detection, content engagement analysis, signal scoring systems, CRM signal enrichment, workflow automation, signal routing systems, alert infrastructure, trigger-based outreach logic, AI-assisted signal interpretation, market intelligence dashboards.
+
+Key Outputs
+Signal infrastructure. Trigger framework. Intent monitoring systems. Market intelligence workflows. CRM enrichment architecture. Signal-based prioritisation models.
+
+Audit layers feeding this level: Layer 3 (Signal) in full. All eight dimensions S1 to S8.
+
+
+LEVEL 5 — DEMAND CREATION & RELATIONSHIP GTM
+Building Prospect Delight Systems
+
+Core Focus
+Move from broadcasting to designed first encounters. The first-touch layer. When the listening system fires, this is what the prospect meets. The principle: every first encounter has to be remarkable, otherwise the listening infrastructure is wasted.
+
+What sits inside this level:
+- Create content as pre-sales infrastructure (the silent 80% of buyer research)
+- Build event-led and relationship-led GTM motions
+- Design diagnostic-first sales processes (no pitch in the first meeting)
+- Build sales enablement assets and sales rooms (per-deal, instrumented, decision-maker visible)
+- IRL live, online, in-person events
+- Podcast and visibility partnerships
+- Run the first-touch decision tree: continue the signal → invite to high-value event → offer third-party report
+- Build the diagnostic framework (benchmark, peer comparison, health-check)
+- Pre-write outreach templates per signal type
+
+Strategic Areas
+Content as pre-sales infrastructure, educational GTM systems, event-led GTM, relationship-led GTM, community-led GTM, webinar systems, podcast partnerships, media partnerships, executive interview systems, report and benchmark creation, roundtable strategy, diagnostic-first sales processes, trust-building sales journeys, sales room design, sales enablement systems, buyer education infrastructure, workshop-based selling, thought leadership systems, event strategy and activation, dinner and networking strategy, IRL relationship systems, buyer engagement sequencing, commercial trust infrastructure.
+
+Key Outputs
+Content infrastructure. Event strategy. Sales enablement system. Diagnostic sales frameworks. Relationship acceleration systems. Educational GTM assets.
+
+Audit layers feeding this level: Brand B4 Social Proof Library, B6 Company Content Cadence; Sales Process SP2 Qualification Framework, SP3 Call Recording & Coaching, SP8 Champion Tracking.
+
+
+LEVEL 6 — DISTRIBUTION & SIGNAL-BASED ACTIVATION
+Engineering Attention, Reach & Commercial Timing
+
+Core Focus
+Building human distribution systems, personal brand infrastructure, and timing-based outbound activation. Founder advocacy, employee advocacy, and signal-driven outbound in one place because they share the same logic: the right person says the right thing to the right account at the right moment.
+
+What sits inside this level:
+- Build founder and employee advocacy systems
+- Design LinkedIn and personal brand distribution systems
+- Activate in order: founders, executive team, ICP-lookalike employees, self-appointed enthusiasts
+- Create outbound campaigns around signals and timing
+- Engineer customer journeys and deal acceleration systems
+- Build positioning per LinkedIn profile, four content pillars per person, four posts per week cadence
+- Self-produced content with gamification, or ghostwritten and ghost-commented under delegation
+- Pre-populate outreach templates connected to signal triggers
+- GEO across every asset
+
+Strategic Areas
+Founder-led marketing systems, executive visibility systems, employee advocacy systems, LinkedIn distribution systems, personal branding frameworks, content distribution infrastructure, signal-based outbound campaigns, trigger-based outreach, ICP-aligned creator systems, ghostwriting operations, content repurposing systems, audience building systems, community engagement systems, relationship warming systems, social proof amplification, content cadence systems, signal amplification systems, GEO optimisation across assets, search discoverability systems, AI discoverability optimisation, deal acceleration content systems, customer journey orchestration, multi-touch visibility systems.
+
+Key Outputs
+GEO framework. Employee advocacy framework. LinkedIn operating system. Distribution architecture. Signal-based campaign structure. Executive brand system. Content activation engine.
+
+Audit layers feeding this level: Brand B5 Founder/Exec LinkedIn Presence; Outbound O2 Sequencer Setup, O3 Personalisation Depth, O4 LinkedIn Outbound Operations, O5 Multi-Channel Orchestration, O7 Content Engine.
+
+
+LEVEL 7 — PAID ACQUISITION & AMPLIFICATION
+Scaling Reach Through Paid Distribution
+
+Core Focus
+Amplifying reach, awareness, engagement, and pipeline creation through paid systems.
+
+What sits inside this level:
+- LinkedIn (organic-aligned, ABM, retargeting, Thought Leader Ads)
+- Google Ads (search demand capture, brand defence, intent keywords)
+- Meta Ads (top-of-funnel demand generation, retargeting where ICP is present)
+- Define the role of paid in pipeline (demand gen, demand capture, ABM)
+- Build the channel mix and budget allocation logic
+- Build ABM lists synced from CRM, refreshed on new accounts
+- Wire signal-triggered retargeting (spend ramps when an account shows intent)
+- Build the creative system (atomised from sales conversations, persona-matched, refreshed weekly)
+- Build personalised account-aware landing pages
+- Set up multi-touch attribution feeding CRM forecast
+- Integrate ads with outbound and CRM as one pipeline, three channels
+
+Strategic Areas
+LinkedIn Ads systems, Google Ads systems, Meta Ads systems, paid content amplification, sponsored thought leadership, retargeting infrastructure, demand capture systems, paid ABM systems, event amplification campaigns, webinar acquisition systems, audience retargeting, paid social experimentation, conversion architecture, landing page systems, attribution systems, CPC and CAC analysis, funnel optimisation, multi-channel paid orchestration, creative testing systems, paid distribution analytics.
+
+Key Outputs
+Paid GTM framework. Ad infrastructure. Retargeting systems. Funnel optimisation systems. Attribution model. Paid amplification strategy.
+
+Audit layers feeding this level: Layer 6 (Ads) in full. All eight dimensions A1 to A8.
+
+
+LEVEL 8 — REVENUE ORCHESTRATION & CUSTOMER ACTIVATION
+Aligning Teams Around Customer Momentum
+
+Core Focus
+Connecting sales, product, marketing, partnerships, customer success, and onboarding into one coordinated commercial system. The handoff and orchestration layer. Most pipeline leaks at the seams between teams, not inside any one team. This part is the seams.
+
+What sits inside this level:
+- Coordinate sales, product, marketing, partnerships, and customer success as one revenue motion
+- Support onboarding and customer activation
+- Define and govern handoff SLAs across marketing → sales → CS
+- Document pipeline stages with exit criteria and deal-desk governance
+- Build forecasting discipline (target ≥85% accuracy)
+- Design qualification framework (BANT, MEDDIC, MEDDPICC) and enforce in CRM
+- Set up call recording, coaching, and AI insight loops back into pipeline and content
+- Build win/loss analysis as a quarterly programme with feedback to product and marketing
+- Build closed-lost reactivation triggered by signal changes
+- Build buying committee mapping with champion-moved tracking
+- Build proposal/quote-to-cash automation with discount governance
+
+Strategic Areas
+Revenue operations alignment, cross-functional GTM coordination, sales and marketing alignment, product-to-market alignment, customer onboarding systems, customer activation systems, time-to-value optimisation, customer education systems, implementation journey mapping, customer health scoring, lifecycle coordination, customer feedback loops, internal enablement systems, GTM workflow orchestration, handoff optimisation, post-sale communication systems, customer success enablement, product adoption systems, internal reporting systems, commercial accountability structures, team operating rhythms.
+
+Key Outputs
+Sales cycles, CRM. Revenue orchestration system. Onboarding framework. Activation systems. Cross-functional GTM workflows. Customer journey infrastructure. Lifecycle coordination models.
+
+Audit layers feeding this level: Layer 4 (RevOps) in full, R1 to R8; Layer 7 (Sales Process) in full, SP1 to SP8.
+
+
+LEVEL 9 — ECOSYSTEM EXPANSION & PARTNER ENABLEMENT
+Turning Customers into Distribution Channels
+
+Core Focus
+Create partner enablement and white-label activation systems. The second funnel. Where ecosystem businesses leak the most revenue. The post-sale activation layer specifically for B2B2B and white-label models. The customer signs, then has to sell your product on to their customers. Most companies are not set up for this. The companies that solve it compound.
+
+What sits inside this level:
+- Create partner enablement systems
+- Build white-label activation systems (the customer running your playbook on their customers)
+- Build lifecycle and upsell communication systems
+- Provide 80%-built templates for every touchpoint: ICP sizing, messaging house, outbound campaigns, diagnostic session, sales room template, enablement collateral
+- Build renewal pipeline with stage logic and forecasting
+- Build expansion plays triggered by usage and signals
+- Set up health scoring, QBRs, and expansion automation
+- Build lifecycle communications tied to product usage and milestones
+
+Strategic Areas
+Partner enablement systems, white-label activation systems, reseller GTM systems, partner onboarding, co-selling frameworks, partner sales playbooks, marketplace activation, channel marketing systems, partner lifecycle communication, upsell systems, expansion communication systems, ecosystem-led growth systems, secondary funnel enablement, partner education systems, co-marketing infrastructure, strategic alliance systems, integration partnership systems, referral systems, expansion trigger systems, partner analytics and visibility, ecosystem reporting systems.
+
+Key Outputs
+Partner GTM framework. White-label enablement system. Expansion communication systems. Ecosystem growth infrastructure. Partner lifecycle framework. Secondary distribution engine.
+
+Audit layers feeding this level: Layer 4 (RevOps) R7 Renewal & Expansion Pipeline.
+
+
+LEVEL 10 — COMMERCIAL OPERATING SYSTEMS & VISIBILITY
+Building the GTM Operating System
+
+Core Focus
+Visibility, analytics, reporting, operating system. The meta-layer that runs across all the others, always. The operational layer that makes the system observable, accountable, and improvable. This is the layer that turns nine excellent parts into one compounding business. Without it, you have a collection of tactics. With it, you have a GTM operating system.
+
+What sits inside this level:
+- Visibility, analytics, weekly/monthly/quarterly/half-yearly/annual updates and reports
+- Turn ecosystem complexity into scalable revenue systems
+- Build the operating system between product and market
+- Engineer trust, attention, and commercial momentum
+- Create operational visibility across the revenue journey
+- Build workflow automation and reporting systems
+- Build CRM-native dashboards (pipeline, velocity, conversion, CAC)
+- Build executive BI layer with predictive forecasting
+- Build the workflow automation library (n8n / Make / Zapier / native)
+- Embed AI agents in workflows with full observability
+- Set up reply classification and disposition routing
+- Run GEO (generative engine optimisation) across every asset
+- Maintain the lists. Refresh them. Audit them. Everything starts there.
+
+Strategic Areas
+GTM operating systems, revenue visibility systems, workflow automation, reporting infrastructure, weekly, monthly, quarterly, half-year and annual reporting systems, CRM architecture, dashboard systems, analytics and attribution, pipeline visibility, lifecycle analytics, GTM intelligence systems, AI-assisted workflow systems, commercial forecasting, operational reporting, cross-functional reporting, executive visibility systems, GTM process documentation, knowledge management systems, internal learning systems, GTM governance, workflow orchestration, scalable systems design, commercial operating cadence, revenue intelligence infrastructure.
+
+Key Outputs
+GTM operating system. Revenue visibility framework. Reporting infrastructure. Automation architecture. Commercial intelligence dashboards. Scalable workflow systems.
+
+Audit layers feeding this level: Layer 4 (RevOps) R5 Dashboards & Reporting, R6 Workflow Automation Library, R8 Reply Classification; Layer 5 (Outbound) O8 AI Agents in GTM Ops; Layer 7 (Sales Process) SP5 Pipeline Hygiene & Forecast Accuracy, SP7 CRM Deal Management Discipline.
+
+Maturity bands across the audit:
+- 0–56 Foundation. No system. Founder-led, scattered.
+- 57–112 Building. Tools in place, not wired.
+- 113–168 Scaling. Systems working, room to deepen.
+- 169–224 Compounding. Full system-led GTM. Advanced plays running.
