@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       const lDims = PB.byLayer[n];
       const lDone = lDims.filter((d) => Number.isInteger(state.answers[d.id])).length;
       const cls = n === layer ? " is-active" : (lDone === lDims.length ? " is-done" : "");
-      return `<a class="audit-pip${cls}" href="?layer=${n}" title="${escapeHtml(PB.layerName(n))}">${n}</a>`;
+      return `<a class="audit-pip${cls}" href="playbook/audit.html?layer=${n}" title="${escapeHtml(PB.layerName(n))}">${n}</a>`;
     }).join("")}</div>
   `;
 
@@ -77,10 +77,10 @@ document.addEventListener("DOMContentLoaded", async () => {
   const footer = document.getElementById("audit-footer");
   const allLayerDone = dims.every((d) => Number.isInteger(state.answers[d.id]));
   const isLast = layer === 7;
-  const prev = layer > 1 ? `<a class="btn btn-secondary" href="?layer=${layer - 1}">← Layer ${layer - 1}</a>` : `<a class="btn btn-secondary" href="index.html">← Playbook</a>`;
+  const prev = layer > 1 ? `<a class="btn btn-secondary" href="playbook/audit.html?layer=${layer - 1}">← Layer ${layer - 1}</a>` : `<a class="btn btn-secondary" href="playbook/">← Playbook</a>`;
   const next = isLast
-    ? `<a class="btn btn-primary" id="audit-finish" href="results.html">See results →</a>`
-    : `<a class="btn btn-primary" href="?layer=${layer + 1}">Layer ${layer + 1} →</a>`;
+    ? `<a class="btn btn-primary" id="audit-finish" href="playbook/results.html">See results →</a>`
+    : `<a class="btn btn-primary" href="playbook/audit.html?layer=${layer + 1}">Layer ${layer + 1} →</a>`;
   footer.innerHTML = `${prev}${next}`;
 
   function renderDimCard(d, currentScore, quantVal) {

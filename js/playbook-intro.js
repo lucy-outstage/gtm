@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     grid.innerHTML = PB.levels
       .map(
         (l) => `
-      <a class="level-card" href="levels/level.html?slug=${encodeURIComponent(l.slug)}">
+      <a class="level-card" href="playbook/levels/level.html?slug=${encodeURIComponent(l.slug)}">
         <div class="level-card-num">L${l.number}</div>
         <div class="level-card-name">${escapeHtml(l.name)}</div>
         <div class="level-card-line">${escapeHtml(l.oneLineDistillation)}</div>
@@ -24,9 +24,9 @@ document.addEventListener("DOMContentLoaded", async () => {
   const resumeEl = document.getElementById("resume-state");
   if (resumeEl) {
     if (PB.isComplete(state)) {
-      resumeEl.innerHTML = `<a class="btn btn-secondary" href="results.html">View your results</a>`;
+      resumeEl.innerHTML = `<a class="btn btn-secondary" href="playbook/results.html">View your results</a>`;
     } else if (answered > 0) {
-      resumeEl.innerHTML = `<a class="btn btn-secondary" href="audit.html">Resume audit (${answered}/56)</a>`;
+      resumeEl.innerHTML = `<a class="btn btn-secondary" href="playbook/audit.html">Resume audit (${answered}/56)</a>`;
     }
   }
 });
