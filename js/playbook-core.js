@@ -11,11 +11,11 @@ const PB = {
 };
 
 PB.ready = (async function () {
-  const base = location.pathname.startsWith("/playbook/levels/") ? "../../content/" : location.pathname.startsWith("/playbook/") ? "../content/" : "content/";
+  // With per-page <base href> tags set, relative URLs resolve correctly from any depth.
   const [config, levels, dimensions] = await Promise.all([
-    fetch(base + "playbook-config.json").then((r) => r.json()),
-    fetch(base + "levels.json").then((r) => r.json()),
-    fetch(base + "audit-dimensions.json").then((r) => r.json()),
+    fetch("content/playbook-config.json").then((r) => r.json()),
+    fetch("content/levels.json").then((r) => r.json()),
+    fetch("content/audit-dimensions.json").then((r) => r.json()),
   ]);
   PB.config = config;
   PB.levels = levels;

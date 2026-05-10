@@ -10,11 +10,11 @@ function escapeHtml(s) {
 }
 
 function caseHref(slug) {
-  return `/case-studies/case.html?slug=${encodeURIComponent(slug)}`;
+  return `case-studies/case.html?slug=${encodeURIComponent(slug)}`;
 }
 
 function levelHref(slug) {
-  return `/playbook/levels/level.html?slug=${encodeURIComponent(slug)}`;
+  return `playbook/levels/level.html?slug=${encodeURIComponent(slug)}`;
 }
 
 function caseCard(c, opts = {}) {
