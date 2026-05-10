@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           </div>
         </div>
         <div class="btn-row results-actions">
-          <a class="btn btn-primary" href="#reading-path">See your reading path</a>
+          <a class="btn btn-primary" href="playbook/results.html#reading-path">See your reading path</a>
           <button class="btn btn-secondary" type="button" onclick="window.print()">Download summary</button>
           <a class="btn btn-ghost" href="playbook/audit.html?layer=1">Edit answers</a>
         </div>
